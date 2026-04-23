@@ -1,0 +1,16 @@
+{
+  "name": "website-mawdoo3-com",
+  "version": "1.0.0",
+  "description": "📱 تصميم موقع مستخرج من mawdoo3.com",
+  "main": "index.html",
+  "keywords": [
+    "موقع",
+    "تصميم",
+    "html",
+    "css",
+    "واجهة أمامية",
+    "mawdoo3"
+  ],
+  "author": "استُخرج بواسطة استخراج التصاميم",
+  "license": "MIT"
+}
